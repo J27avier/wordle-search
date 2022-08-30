@@ -1,4 +1,4 @@
-# Wordle Grid Search
+# Wordle Search
 
 Rust implementation to find five five-letter words that share no letters between them.
 
